@@ -10,7 +10,7 @@ let readme = fs.readFileSync(path.resolve(__dirname, '../README.md'), 'utf8'),
 // DApps page
 const dapps = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../dapps/index.json'), 'utf8'))
 dapps.map((dapp) => {
-    dappsMd += `| <img src="https://raw.githubusercontent.com/longhuicode/eospark-cooperation/master/dapps/img/${dapp.logo}" /> | ${dapp.title} | ${dapp.description} | <img src="${path.resolve(__dirname, '../dapps/img')}/${dapp.preview}" /> | ${dapp.link} | ${dapp.categoriy} | ${dapp.gaTag} | \n`
+    dappsMd += `| <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/${dapp.logo}" /> | ${dapp.title} | ${dapp.description} | <img src="${path.resolve(__dirname, '../dapps/img')}/${dapp.preview}" /> | ${dapp.link} | ${dapp.categoriy} | ${dapp.gaTag} | \n`
 })
 dappsMd = `<!-- dapp_list_start -->\n${dappsMd}\n<!-- dapp_list_end -->`
 readme = readme.replace(/<!-- dapp_list_start -->[\s\S]*<!-- dapp_list_end -->/, dappsMd)
@@ -20,7 +20,7 @@ readmeCn = readmeCn.replace(/<!-- dapp_list_start -->[\s\S]*<!-- dapp_list_end -
 const partners = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../partners/index.json'), 'utf8'))
 partners.map((partner) => {
     partner.children.map((item) => {
-        partnersMd += `| <img src="https://raw.githubusercontent.com/longhuicode/eospark-cooperation/master/partners/img/${item.logo}" /> | ${item.title} | ${item.description} | ${item.link} | ${partner.type} | ${item.gaTag} | \n`
+        partnersMd += `| <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/${item.logo}" /> | ${item.title} | ${item.description} | ${item.link} | ${partner.type} | ${item.gaTag} | \n`
     })
 })
 partnersMd = `<!-- partner_list_start -->\n${partnersMd}\n<!-- partner_list_end -->`
@@ -31,7 +31,7 @@ readmeCn = readmeCn.replace(/<!-- partner_list_start -->[\s\S]*<!-- partner_list
 const homePartners = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../home-partners/index.json'), 'utf8'))
 homePartners.map((partners) => {
     partners.map((partner) => {
-        homePartnersMd += `| <img src="https://raw.githubusercontent.com/longhuicode/eospark-cooperation/master/home-partners/img/${partner.logo}" /> | ${partner.link} | ${partner.gaTag} | \n`
+        homePartnersMd += `| <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/home-partners/img/${partner.logo}" /> | ${partner.link} | ${partner.gaTag} | \n`
     })
 })
 homePartnersMd = `<!-- home_partner_list_start -->\n${homePartnersMd}\n<!-- home_partner_list_end -->`
