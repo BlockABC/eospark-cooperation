@@ -451,5 +451,54 @@
     "preview":"eosknights.png",
     "title":"EOS Knights",
     "description":"EOS Knights is a first mobile game, runs on an EOS."
+  },
+  {
+    "gaTag":"btex",
+    "categoriy":"exchange",
+    "link":"https://www.btex.org",
+    "logo":"btex_logo.png",
+    "preview":"btex.png",
+    "title":"BTEX",
+    "description":"BTEX is a de-centralized exchange on EOS.",
+    "zh-Hans-CN":{
+      "description":"BTEX 是 EOS 去中心化交易所，将上币、撮合、结算等核心功能上链，手续费 100% 分红."
+    }
+  },
+  {
+    "gaTag":"eos_war",
+    "categoriy":"game",
+    "link":"https://eoswar.one/?ref=supereospark",
+    "logo":"eos_war_logo.png",
+    "preview":"eos_war.png",
+    "title":"EosWar",
+    "description":"Call up for oneself and lead a team to fight!",
+    "zh-Hans-CN":{
+      "title":"EOS 争霸",
+      "description":"为自己打 call 的保卫战，KO 得越猛赢越多！胜者瓜分战利池，论功行赏占鳌头，成王败寇就只争朝夕!"
+    }
+  },
+  {
+    "gaTag":"rainbow_bay",
+    "categoriy":"game",
+    "link":"https://www.rabgame.com?ref=supereospark&time=4",
+    "logo":"rainbow_bay_logo.png",
+    "preview":"rainbow_bay.png",
+    "title":"Rainbow Bay",
+    "description":"Rainbow Bay 充分吸取 DAPP 市场经验，致力创造一个定位于 PVP 的游戏平台.",
+    "zh-Hans-CN":{
+      "title": "彩虹湾"
+    }
+  },
+  {
+    "gaTag":"we_dice",
+    "categoriy":"game",
+    "link":"https://wedice.one/?ref=supereospark",
+    "logo":"we_dice_logo.png",
+    "preview":"we_dice.png",
+    "title":"WeDice",
+    "description":"Automatic earning dice for dice owner.",
+    "zh-Hans-CN":{
+      "description":"领养骰子，躺赢分红."
+    }
   }
 ]
