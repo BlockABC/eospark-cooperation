@@ -1,0 +1,454 @@
+[
+  {
+    "gaTag":"dice",
+    "categoriy":"game",
+    "link":"https://dice.one/?ref=supereospark",
+    "logo":"dice_logo.png",
+    "preview":"dice.png",
+    "title":"DICE",
+    "description":"The largest social gaming platform on EOSIO."
+  },
+  {
+    "gaTag":"eos_joy",
+    "categoriy":"game",
+    "link":"https://www.eosjoy.io/?user=supereospark&utm_source=eospark",
+    "logo":"eosjoy_logo.png",
+    "preview":"eosjoy.png",
+    "title":"EOSJoy",
+    "description":"The World's First Blockchain Platform for Leisure and Competitive Games.",
+    "zh-Hans-CN":{
+      "description":"全球首个区块链休闲竞技游戏平台."
+    }
+  },
+  {
+    "gaTag":"endless_game",
+    "categoriy":"game",
+    "link":"https://endless.game/dice?invite=supereospark&channel=eospark",
+    "logo":"endless_game_logo.png",
+    "preview":"endless_game.png",
+    "title":"Endless Game",
+    "description":"The First Cross-Chain Profit-Sharing Gaming Platform.",
+    "zh-Hans-CN":{
+      "description":"第一个极度透明的利润分享在线游戏厅，玩的越多，赚的越多."
+    }
+  },
+  {
+    "gaTag":"farm_eos",
+    "categoriy":"game",
+    "link":"https://farmeos.io/a/supereospark",
+    "logo":"farm_eos_logo.png",
+    "preview":"farm_eos_en.png",
+    "title":"FarmEOS",
+    "description":"FarmEOS is the world's first DApp gaming eco-platform that combines game mining, Bancor and price dividend weight. PoB（Proof of Bancor) and DoP (Dividend of Price) are also the new mining modes pioneered by FarmEOS team. That is, Permanent dividend and endless game mining.",
+    "zh-Hans-CN":{
+      "preview":"farm_eos_cn.png",
+      "description":"FarmEOS 是全球首款可永久挖矿的 DApp 游戏生态平台。开发团队开创了 PoB（班科证明）挖矿模式以及 DoP（价格股息率）分红模式。持续造血，永久分红，游戏不息，挖矿不止."
+    }
+  },
+  {
+    "gaTag":"trust_dice",
+    "categoriy":"game",
+    "link":"https://trustdice.win/?ref=supereospark",
+    "logo":"trust_dice_logo.png",
+    "preview":"trust_dice.png",
+    "title":"Trust Dice",
+    "description":"Play to Earn at TXT Gaming Platform."
+  },
+  {
+    "gaTag":"chaince",
+    "categoriy":"exchange",
+    "link":"https://chaince.com",
+    "logo":"chaince_logo.png",
+    "preview":"chaince.png",
+    "title":"Chaince",
+    "description":"World First EOS Full-Ecological Exchange.",
+    "zh-Hans-CN":{
+      "title":"畅思",
+      "description":"全球首家 EOS 全生态交易所."
+    }
+  },
+  {
+    "gaTag":"stname",
+    "categoriy":"tool",
+    "link":"http://stname.starteos.io/#/index?refs=supereospark",
+    "logo":"stname_logo.png",
+    "preview":"stname_en.png",
+    "title":"Stname",
+    "description":"EOS Premium Accounts Auction, by participating you will have the opportunity to earn EOS!",
+    "zh-Hans-CN":{
+      "preview":"stname_cn.png",
+      "description":"EOS 生态顶级域名竞拍，参与更有机会赚 EOS!"
+    }
+  },
+  {
+    "gaTag":"whale_ex",
+    "categoriy":"exchange",
+    "link":"https://www.whaleex.com",
+    "logo":"whale_ex_logo.png",
+    "preview":"whale_ex_en.png",
+    "title":"WhaleEx",
+    "description":"Decentralized Exchange with World's Highest Trading Volume.",
+    "zh-Hans-CN":{
+      "preview":"whale_ex_cn.png",
+      "title":"鲸交所",
+      "description":"全球流动性最强的去中心化交易所."
+    }
+  },
+  {
+    "gaTag":"bank_of_staked",
+    "categoriy":"tool",
+    "link":"https://eoslaomao.com/bankofstaked",
+    "logo":"bank_of_staked_logo.png",
+    "preview":"bank_of_staked.png",
+    "title":"Bank of Staked",
+    "description":"Bank of Staked, a CPU rental platform that understands your security concerns.",
+    "zh-Hans-CN":{
+      "description":"Bank of Staked, 懂你安全顾虑的 CPU 租赁平台."
+    }
+  },
+  {
+    "gaTag":"eostowergame",
+    "categoriy":"game",
+    "link":"https://eostowergame.com/?ref=supereospark",
+    "logo":"eostowergame_logo.png",
+    "preview":"eostowergame.png",
+    "title":"EOS Tower Game",
+    "description":"Fun 1:1 PVP game that you can compete with others.",
+    "zh-Hans-CN":{
+      "title":"EOS 塔游戏"
+    }
+  },
+  {
+    "gaTag":"unlimitedtower",
+    "categoriy":"game",
+    "link":"https://www.unlimitedtower.com/main.jsp",
+    "logo":"unlimitedtower_logo.png",
+    "preview":"unlimitedtower.png",
+    "title":"Unlimited Tower ⚔️",
+    "description":"The Next Generation On-Chain Battle SRPG Dapp.",
+    "zh-Hans-CN":{
+      "description":"下一代链式战斗 SRPG Dapp."
+    }
+  },
+  {
+    "gaTag":"findex",
+    "categoriy":"exchange",
+    "link":"https://findex.pro",
+    "logo":"findex_logo.png",
+    "preview":"findex.png",
+    "title":"FINDEX",
+    "description":"FINDEX is a decentralised exchange based on EOS plugin technology match engine.",
+    "zh-Hans-CN":{
+      "description":"FINDEX 是 EOS 上真正的去中心化交易所，基于 EOS Plugin 技术开发出的分布式撮合引擎，使用智能合约管理所有的订单簿和成交，所有用户行为均被记录在链上."
+    }
+  },
+  {
+    "gaTag":"token_planet",
+    "categoriy":"game",
+    "link":"http://app.tokenplanet.net",
+    "logo":"token_planet_logo.png",
+    "preview":"token_planet.png",
+    "title":"Token Planet",
+    "description":"A game which you can make money without investing.",
+    "zh-Hans-CN":{
+      "title":"泰肯星球",
+      "description":"零投资参与游戏，玩既送 TKC."
+    }
+  },
+  {
+    "gaTag":"vs_bet",
+    "categoriy":"game",
+    "link":"https://vsbet.io/?i=supereospark",
+    "logo":"vs_bet_logo.png",
+    "preview":"vs_bet.png",
+    "title":"VSbet 龙虎斗",
+    "description":"VSbet is a first multi-PvP dice game base on EOS. Besides tradditional dice game, team battle is introduced into the game. Winners will take the jackpot of the lost team. More bonus, more compatitive, and more fun!",
+    "zh-Hans-CN":{
+      "description":"VSbet 是是第一个基于 EOS 的多人 pvp 的 dice 游戏。除了传统的 dice 玩法外，还加入了阵营战斗。胜利方可获得失败方的奖池。更多的奖金，更多的竞争，更多的乐趣！"
+    }
+  },
+  {
+    "gaTag":"eoshash",
+    "categoriy":"game",
+    "link":"https://eoshash.win/game/lottery?ref=supereospark ",
+    "logo":"eoshash_logo.png",
+    "preview":"eoshash.png",
+    "title":"EOSHASH",
+    "description":"The FAIREST Satoshi-style Decentralized Crypto Casino Built on EOS, use hash to draw winning numbers to guarantee absolute Fairness, No Chance for Cheating at All! Generous rewards, high referral bonus!",
+    "zh-Hans-CN":{
+      "description":"最公平的游戏平台, 构建于 EOS 主网之上, 基于 HASH 开奖的分布式游戏平台, 绝无暗箱操作空间."
+    }
+  },
+  {
+    "gaTag":"eos_nbet",
+    "categoriy":"game",
+    "link":"http://www.eosbets.me",
+    "logo":"eos_nbet_logo.png",
+    "preview":"eos_nbet.png",
+    "title":"EOS NBet",
+    "description":"Based on EOS platform, combined with a variety of creative play, stimulating rewards and bonuses!",
+    "zh-Hans-CN":{
+      "description":"基于 EOS 平台，结合多种创意玩法，刺激的奖励与分红！"
+    }
+  },
+  {
+    "gaTag":"newdex",
+    "categoriy":"exchange",
+    "link":"https://newdex.io",
+    "logo":"newdex_logo.png",
+    "preview":"newdex.png",
+    "title":"Newdex",
+    "description":"The first EOS based decentralized exchange in the world.",
+    "zh-Hans-CN":{
+      "description":"全球首家 EOS 去中心化交易所."
+    }
+  },
+  {
+    "gaTag":"eos_texas_poker",
+    "categoriy":"game",
+    "link":"http://texas.eospokers.com",
+    "logo":"eos_texas_poker_logo.png",
+    "preview":"eos_texas_poker.png",
+    "title":"EOS Texas POKER",
+    "description":"The First Orthodox Texas Poker Game on EOS.",
+    "zh-Hans-CN":{
+      "title":"EOS 德扑",
+      "description":"EOS 上第一款正统的德州扑克游戏."
+    }
+  },
+  {
+    "gaTag":"fantasy_forest",
+    "categoriy":"game",
+    "link":"http://www.eosslot.com",
+    "logo":"fantasy_forest_logo.png",
+    "preview":"fantasy_forest.png",
+    "title":"FANTASY FOREST",
+    "description":"First EOS slot game development company. Decentralized algorithm, easily verification, airdropping SLOT for initial stage.",
+    "zh-Hans-CN":{
+      "title":"梦幻森林",
+      "description":"首家 EOS 老虎机游戏平台。去中心算法，自由验证，初期玩游戏空投 SLOT."
+    }
+  },
+  {
+    "gaTag":"pra_candybox",
+    "categoriy":"tool",
+    "link":"https://chain.pro/web-prabox/#/?ref=supereospark",
+    "logo":"pra_candybox_logo.png",
+    "preview":"pra_candybox.png",
+    "title":"PRA Candybox",
+    "description":"PRA Candy Box is the first EOS-based advertisement DApp.",
+    "zh-Hans-CN":{
+      "title":"PRA 糖果盒",
+      "description":"基于 EOS 的首款糖果盒 DApp."
+    }
+  },
+  {
+    "gaTag":"eos_royale",
+    "categoriy":"game",
+    "link":"https://roulette.eosroyale.com?ref=supereospark&utm_source=eospark",
+    "logo":"eos_royale_logo.png",
+    "preview":"eos_royale.png",
+    "title":"EOS Royale",
+    "description":"EOS Royale is a decentralized gaming platform on the EOS blockchain."
+  },
+  {
+    "gaTag":"eosluck",
+    "categoriy":"game",
+    "link":"https://eosluck.one/?ref=supereospark",
+    "logo":"eosluck_logo.png",
+    "preview":"eosluck.png",
+    "title":"EOSLUCK",
+    "description":"The first betting platform based on EOS.",
+    "zh-Hans-CN":{
+      "title":"幸运链"
+    }
+  },
+  {
+    "gaTag":"murmur",
+    "categoriy":"entertainment",
+    "link":"https://murmurdapp.com",
+    "logo":"murmur_logo.png",
+    "preview":"murmur.png",
+    "title":"Murmur",
+    "description":"Microblogging, re-imagined."
+  },
+  {
+    "gaTag":"roulette",
+    "categoriy":"game",
+    "link":"https://roulette.dapp365.io/?ref=supereospark",
+    "logo":"roulette_logo.png",
+    "preview":"roulette.png",
+    "title":"Roulette",
+    "description":"Lucky wheel's big prize is waiting for you.",
+    "zh-Hans-CN":{
+      "title":"轮盘",
+      "description":"幸运大转盘，大奖等你来."
+    }
+  },
+  {
+    "gaTag":"eos_sangong",
+    "categoriy":"game",
+    "link":"http://eosyx.vip/?link=supereospark",
+    "logo":"eos_sangong_logo.png",
+    "preview":"eos_sangong.png",
+    "title":"EOS Sangong",
+    "description":"Play the fairest games results by EOS block hash.",
+    "zh-Hans-CN":{
+      "title":"EOS 三公",
+      "description":"三公棋牌玩法简单，在游戏茶苑中有很高的人气. EOS 三公以主网哈希值作为游戏的开奖号码，童叟无欺!"
+    }
+  },
+  {
+    "gaTag":"eos_gameboy",
+    "categoriy":"game",
+    "link":"https://eosgameboy.io/?ref=supereospark",
+    "logo":"eos_gameboy_logo.png",
+    "preview":"eos_gameboy.png",
+    "title":"EOS Gameboy",
+    "description":"Simple and easy blockchain game technology.",
+    "zh-Hans-CN":{
+      "title":"EOS 游戏机",
+      "description":"简单易行岩石剪刀纸游戏上区块链技术, 像百家乐一样玩. 在活动期间获取 BOY 令牌."
+    }
+  },
+  {
+    "gaTag":"enbank",
+    "categoriy":"tool",
+    "link":"https://enbk.io/candy/?ref=supereospark",
+    "logo":"enbank_logo.png",
+    "preview":"enbank.png",
+    "title":"ENBank",
+    "description":"ENB is a financial management service platform.",
+    "zh-Hans-CN":{
+      "title":"ENB 平台",
+      "description":"ENB 是基于 EOS 主链去中心化的理财服务平台. 提供糖果工厂、币余宝及空投等服务."
+    }
+  },
+  {
+    "gaTag":"uu_dog_racing",
+    "categoriy":"game",
+    "link":"http://h5.uugames.io?ref=supereospark",
+    "logo":"uu_dog_racing_logo.png",
+    "preview":"uu_dog_racing.png",
+    "title":"UU Dog Racing",
+    "description":"UU 赛狗是 UUGames 平台的首款游戏，将传统休闲竞技玩法进行通证化改造，透明公正，欢乐有趣.",
+    "zh-Hans-CN":{
+      "title":"UU 赛狗"
+    }
+  },
+  {
+    "gaTag":"eosnameswaps",
+    "categoriy":"tool",
+    "link":"https://www.eosnameswaps.com/en.html?ref=eospark",
+    "logo":"eosnameswaps_logo.png",
+    "preview":"eosnameswaps.png",
+    "title":"EosNameSwaps",
+    "description":"EosNameSwaps is the most popular Eos account trading system which is open source, safety and global market.",
+    "zh-Hans-CN":{
+      "title":"EOS 账号交易中心",
+      "link":"https://www.eosnameswaps.com/cn/main/?ref=eospark",
+      "description":"全球最流行的 EOS 账户交易平台，开源、安全、国际化."
+    }
+  },
+  {
+    "gaTag":"dice_eosget",
+    "categoriy":"game",
+    "link":"https://dice.eosget.io/?a=supereospark",
+    "logo":"dice_eosget_logo.png",
+    "preview":"dice_eosget.png",
+    "title":"EOSGET SICBO&K3",
+    "description":"Zero CPU USE BlockChain ID as the lottery basis.",
+    "zh-Hans-CN":{
+      "description":"EOSGET Sicbo 是基于区块链哈希值开奖的多人竞猜游戏，首创了余额下注，避免玩家的 CPU 消耗."
+    }
+  },
+  {
+    "gaTag":"eosabc",
+    "categoriy":"game",
+    "link":"https://www.eosabc.io/?ref=supereospark",
+    "logo":"eosabc_logo.png",
+    "preview":"eosabc.png",
+    "title":"EOSABC",
+    "description":"EOSABC is a game platform based on EOS blockchain.",
+    "zh-Hans-CN":{
+      "description":"EOSABC 是基于 EOS 公链的竞猜游戏平台."
+    }
+  },
+  {
+    "gaTag":"firewall.x",
+    "categoriy":"tool",
+    "link":"https://firewallx.io/index-en.html",
+    "logo":"firewallx_logo.png",
+    "preview":"firewallx.png",
+    "title":"FireWall.X",
+    "description":"Powerful Firewall For EOS Contract, by SlowMist.",
+    "zh-Hans-CN":{
+      "description":"FireWall.X - 强大的 EOS 智能合约防火墙，慢雾安全团队出品.",
+      "link":"https://firewallx.io/index.html"
+    }
+  },
+  {
+    "gaTag":"game_bet",
+    "categoriy":"game",
+    "link":"http://gamebet.one/#/?referrer=supereospark",
+    "logo":"game_bet_logo.png",
+    "preview":"game_bet.png",
+    "title":"GameBet",
+    "description":"基于泛 EOS 开发的小游戏."
+  },
+  {
+    "gaTag":"big_game",
+    "categoriy":"game",
+    "link":"https://big.game/?code=supereospark",
+    "logo":"big_game_logo.png",
+    "preview":"big_game.png",
+    "title":"Big.game",
+    "description":"Big.game, Big Win! Now giving away 7,770 EOS!",
+    "zh-Hans-CN":{
+      "description":"送 7,770 EOS!！Big.game 是最刺激的多人对战游戏平台,公平透明，免 CPU 畅玩."
+    }
+  },
+  {
+    "gaTag":"game_sky",
+    "categoriy":"game",
+    "link":"https://www.gamesky.io/?ref=supereospark",
+    "logo":"game_sky_logo.png",
+    "preview":"game_sky.png",
+    "title":"GameSky",
+    "description":"GameSky is safe,reliable,open source game platform.",
+    "zh-Hans-CN":{
+      "description":"GameSky 一款安全、可靠、开源的游戏平台."
+    }
+  },
+  {
+    "gaTag":"game_sky",
+    "categoriy":"game",
+    "link":"https://pokerking.one/?ref=supereospark",
+    "logo":"pokerking_logo.png",
+    "preview":"pokerking.png",
+    "title":"Hold'em Pokerking",
+    "description":"The first PVP Texas Hold’em on EOS.IO blockchain."
+  },
+  {
+    "gaTag":"game_sky",
+    "categoriy":"game",
+    "link":"https://www.eosreel.io/?ref=supereospark",
+    "logo":"eosreel_logo.png",
+    "preview":"eosreel.png",
+    "title":"EOSreel",
+    "description":"EOSreel is the highest quality decentralized casino gaming platform based on EOS blockchain. EOSreel can never be manipulated, and all the users are able to view every verification process.",
+    "zh-Hans-CN":{
+      "title":"EOS 插槽",
+      "description":"我们提供最好的分红模式. 在体验 EOSreel 的精彩游戏时,用户可以通过 ER 获取每日分红."
+    }
+  },
+  {
+    "gaTag":"eosknights",
+    "categoriy":"game",
+    "link":"https://eosknights.io",
+    "logo":"eosknights_logo.png",
+    "preview":"eosknights.png",
+    "title":"EOS Knights",
+    "description":"EOS Knights is a first mobile game, runs on an EOS."
+  }
+]

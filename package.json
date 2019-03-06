@@ -1,0 +1,25 @@
+{
+  "name": "eospark-cooperation",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "node ./scripts/build.js",
+    "dev": "node ./scripts/dev.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlockABC/eospark-cooperation.git"
+  },
+  "keywords": [
+    "EOS",
+    "DApps",
+    "Partner",
+    "EOSPark"
+  ],
+  "author": "Max",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlockABC/eospark-cooperation/issues"
+  },
+  "homepage": "https://github.com/BlockABC/eospark-cooperation#readme"
+}
