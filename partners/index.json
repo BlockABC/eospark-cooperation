@@ -88,10 +88,10 @@
         "link":"https://www.mytokenpocket.vip/en",
         "logo":"token_pocket.png",
         "title":"TOKEN POCKET",
-        "description":"支持超级节点安全投票和超级代理的 EOS 钱包",
+        "description":"EOS wallet that supports block producer secure voting and super proxy",
         "zh-Hans-CN":{
           "link":"https://www.mytokenpocket.vip/?locale=zh-CN",
-          "description":"EOS wallet that supports block producer secure voting and super proxy"
+          "description":"支持超级节点安全投票和超级代理的 EOS 钱包"
         }
       },
       {
