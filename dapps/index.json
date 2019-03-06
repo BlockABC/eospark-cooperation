@@ -161,9 +161,10 @@
     "link":"https://vsbet.io/?i=supereospark",
     "logo":"vs_bet_logo.png",
     "preview":"vs_bet.png",
-    "title":"VSbet 龙虎斗",
+    "title":"VSbet",
     "description":"VSbet is a first multi-PvP dice game base on EOS. Besides tradditional dice game, team battle is introduced into the game. Winners will take the jackpot of the lost team. More bonus, more compatitive, and more fun!",
     "zh-Hans-CN":{
+      "title":"VSbet 龙虎斗",
       "description":"VSbet 是是第一个基于 EOS 的多人 pvp 的 dice 游戏。除了传统的 dice 玩法外，还加入了阵营战斗。胜利方可获得失败方的奖池。更多的奖金，更多的竞争，更多的乐趣！"
     }
   },

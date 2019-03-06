@@ -44,22 +44,34 @@
         "gaTag":"tomato_wallet",
         "link":"https://tomatowallet.cn/",
         "logo":"tomato_wallet.png",
-        "title":"番茄钱包",
-        "description":"一个钱包支持全币种，一份助记词控制全币种。"
+        "title":"Tomato Wallet",
+        "description":"One wallet supports the full currency and one mnemonic controls the entire currency",
+        "zh-Hans-CN":{
+          "title":"番茄钱包",
+          "description":"一个钱包支持全币种，一份助记词控制全币种"
+        }
       },
       {
         "gaTag":"hoo",
         "link":"https://hoo.com",
         "logo":"hoo.png",
-        "title":"虎符钱包",
-        "description":"专业的区块链资产管理及服务平台"
+        "title":"Hoo Wallet",
+        "description":"Professional blockchain asset management and service platform",
+        "zh-Hans-CN":{
+          "title":"虎符钱包",
+          "description":"专业的区块链资产管理及服务平台"
+        }
       },
       {
         "gaTag":"math_wallet",
         "link":"http://www.mathwallet.org",
         "logo":"math_wallet.png",
-        "title":"麦子钱包",
-        "description":"全球第一个区块链相互保障合约市场"
+        "title":"Math Wallet",
+        "description":"World's first insured crypto wallet",
+        "zh-Hans-CN":{
+          "title":"麦子钱包",
+          "description":"全球第一个区块链相互保障合约市场"
+        }
       },
       {
         "gaTag":"meet_one",
@@ -78,7 +90,8 @@
         "title":"TOKEN POCKET",
         "description":"支持超级节点安全投票和超级代理的 EOS 钱包",
         "zh-Hans-CN":{
-          "link":"https://www.mytokenpocket.vip/?locale=zh-CN"
+          "link":"https://www.mytokenpocket.vip/?locale=zh-CN",
+          "description":"EOS wallet that supports block producer secure voting and super proxy"
         }
       },
       {
@@ -103,7 +116,10 @@
         "link":"https://token.im/",
         "logo":"imtoken.png",
         "title":"imToken",
-        "description":"全球知名的区块链数字货币钱包，支持比特币、以太坊、EOS 等多种数字货币资产"
+        "description":"World-renowned digital asset management tool, supporting Bitcoin, Ethereum, EOS, and other blockchains",
+        "zh-Hans-CN":{
+          "description":"全球知名的区块链数字货币钱包，支持比特币、以太坊、EOS 等多种数字货币资产"
+        }
       },
       {
         "gaTag":"bitpie",
@@ -282,7 +298,10 @@
         "link":"https://www.zb.cn",
         "logo":"zb.png",
         "title":"ZB",
-        "description":"全球化合规交易所"
+        "description":"Global Compliance Exchange",
+        "zh-Hans-CN":{
+          "description":"全球化合规交易所"
+        }
       },
       {
         "gaTag":"bit_cc",
@@ -317,7 +336,10 @@
         "link":"https://top.one/",
         "logo":"top_one.png",
         "title":"TOP.ONE",
-        "description":"全球领先、资产透明的数字资产交易平台"
+        "description":"The world's leading, asset-transparent digital asset exchange",
+        "zh-Hans-CN":{
+          "description":"全球领先、资产透明的数字资产交易平台"
+        }
       },
       {
         "gaTag":"coinex",
@@ -422,28 +444,41 @@
         "link":"https://imeos.one",
         "logo":"imeos_one.png",
         "title":"IMEOS.ONE",
-        "description":"提供 EOS 空投信息的生态门户平台"
+        "description":"An ecological portal platform that provides EOS airdrop information",
+        "zh-Hans-CN":{
+          "description":"提供 EOS 空投信息的生态门户平台"
+        }
       },
       {
         "gaTag":"jinse",
         "link":"https://www.jinse.com",
         "logo":"jinse.png",
-        "title":"金色财经",
-        "description":"在这里读懂区块链"
+        "title":"Jinse Finance",
+        "description":"The Door to Blockchain",
+        "zh-Hans-CN":{
+          "title":"金色财经",
+          "description":"在这里读懂区块链"
+        }
       },
       {
         "gaTag":"spider_store",
         "link":"https://spider.store",
         "logo":"spider_store.png",
         "title":"Spider Store",
-        "description":"发现优质的 DApp"
+        "description":"Discover quality DApp",
+        "zh-Hans-CN":{
+          "description":"发现优质的 DApp"
+        }
       },
       {
         "gaTag":"feixiaohao",
         "link":"https://www.feixiaohao.com/",
         "logo":"feixiaohao.png",
         "title":"非小号",
-        "description":"数字货币大数据分析平台"
+        "description":"Cryptocurrency data analysis platform",
+        "zh-Hans-CN":{
+          "description":"数字货币大数据分析平台"
+        }
       },
       {
         "gaTag":"coincodex",
@@ -508,8 +543,12 @@
         "gaTag":"pro_chain",
         "link":"https://chain.pro/web-prabox/",
         "logo":"pro_chain.png",
-        "title":"PRA 糖果盒",
-        "description":"般若 ProChain 开发的基于 EOS 的首款糖果盒 DApp"
+        "title":"PRA Candy Box",
+        "description":"The first EOS-based candy box DApp developed by ProChain",
+        "zh-Hans-CN":{
+          "title":"PRA 糖果盒",
+          "description":"般若 ProChain 开发的基于 EOS 的首款糖果盒 DApp"
+        }
       },
       {
         "gaTag":"takafuly",
@@ -651,7 +690,10 @@
         "link":"https://eos.tokenpad.io",
         "logo":"token_pad.png",
         "title":"TokenPad",
-        "description":"老司机带你玩转EOS"
+        "description":"Old driver take you to the EOS",
+        "zh-Hans-CN":{
+          "description":"老司机带你玩转 EOS"
+        }
       },
       {
         "gaTag":"my-wish",
