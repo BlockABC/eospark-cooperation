@@ -51,7 +51,7 @@ cd eospark-cooperation
 
 **2. Add DApp to the Dapps page. Open the `dapps/` folder, edit the `index.json` file, and add your DApp information, such as:**
 
-```
+```json
 {
     "gaTag": "eos_park", // for Google Analytics statistics
     "categoriy": "tool", // Dapps categories, Optional: game, entertainment, exchange, tool
@@ -69,7 +69,7 @@ cd eospark-cooperation
 
 **3. Add Partner to the Home-partners page. Open the `home-partner/` folder, edit the `index.json` file, and add your partner information, such as:**
 
-```
+```json
 {
     "gaTag": "eospark", // for Google Analytics statistics
     "url": "https://www.eospark.com/?ref=supereospark", // link
@@ -86,7 +86,7 @@ cd eospark-cooperation
 
 Partners page can only add wallet, exchange, informationPlatforms, dapp, game, tool, before adding Partner first select the category to which you belong.
 
-```
+```json
 {
     "gaTag": "eospark", // for Google Analytics statistics
     "link": "https://www.eospark.com/?ref=supereospark", // link

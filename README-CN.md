@@ -50,7 +50,7 @@ cd eospark-cooperation
 
 **2. 添加 DApp 到 DApps 页面。打开 `dapps/` 文件夹，编辑 `index.json` 文件，添加你的 DApp 信息，例如：**
 
-```
+```json
 {
     "gaTag": "eos_park", // 用于 Google Analytics 统计数据
     "categoriy": "tool", // DApps 类别，可选：game、entertainment、exchange、tool
@@ -68,7 +68,7 @@ cd eospark-cooperation
 
 **3. 添加 Partner 到 Home-Partners 页面。打开 `home-partner/` 文件夹，编辑 `index.json` 文件，添加你的 Partner 信息，例如：**
 
-```
+```json
 {
     "gaTag": "eospark", // 用于 Google Analytics 统计数据
     "url": "https://www.eospark.com/?ref=supereospark", // 跳转链接
@@ -85,7 +85,7 @@ cd eospark-cooperation
 
 Partners 页面只能添加 wallet、exchange、informationPlatforms、dapp、game、tool，添加 Partner 前先选择好所属类别。
 
-```
+```json
 {
     "gaTag": "eospark", // 用于 Google Analytics 统计数据
     "link": "https://www.eospark.com/?ref=supereospark", // 跳转链接
