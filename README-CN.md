@@ -82,6 +82,7 @@ cd eospark-cooperation
 ```
 
 **4. 添加 Partner 到 Partners 页面。Partners 页面可以添加打开 `partners/` 文件夹，编辑 `index.json` 文件，添加你的 Partner 信息，例如：**
+
 Partners 页面只能添加 wallet、exchange、informationPlatforms、dapp、game、tool，添加 Partner 前先选择好所属类别。
 
 ```
