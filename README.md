@@ -72,7 +72,7 @@ cd eospark-cooperation
 ```json
 {
     "gaTag": "eospark", // for Google Analytics statistics
-    "url": "https://www.eospark.com/?ref=supereospark", // link
+    "link": "https://www.eospark.com/?ref=supereospark", // link
     "logo": "eospark.png", // brands logo, pictures placed under the 'home-partners/img/' folder, the size of 372px * 120px, support PNG
     "zh-Hans-CN": { // chinese simplified information
         "url": "https://www.eospark.com/cn/",

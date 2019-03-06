@@ -71,7 +71,7 @@ cd eospark-cooperation
 ```json
 {
     "gaTag": "eospark", // 用于 Google Analytics 统计数据
-    "url": "https://www.eospark.com/?ref=supereospark", // 跳转链接
+    "link": "https://www.eospark.com/?ref=supereospark", // 跳转链接
     "logo": "eospark.png", // 品牌的 Logo, 图片放在 home-partners/img/ 文件夹下, 大小为 372px * 120px，支持 png
     "zh-Hans-CN": { // 中文简体信息
         "url": "https://www.eospark.com/cn/",
