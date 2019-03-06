@@ -10,7 +10,7 @@ let readme = fs.readFileSync(path.resolve(__dirname, '../README.md'), 'utf8'),
 // DApps page
 const dapps = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../dapps/index.json'), 'utf8'))
 dapps.map((dapp) => {
-    dappsMd += `| <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/${dapp.logo}" /> | ${dapp.title} | ${dapp.description} | <img src="${path.resolve(__dirname, '../dapps/img')}/${dapp.preview}" /> | ${dapp.link} | ${dapp.categoriy} | ${dapp.gaTag} | \n`
+    dappsMd += `| <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/${dapp.logo}" /> | ${dapp.title} | ${dapp.description} | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/${dapp.preview}" /> | ${dapp.link} | ${dapp.categoriy} | ${dapp.gaTag} | \n`
 })
 dappsMd = `<!-- dapp_list_start -->\n${dappsMd}\n<!-- dapp_list_end -->`
 readme = readme.replace(/<!-- dapp_list_start -->[\s\S]*<!-- dapp_list_end -->/, dappsMd)
