@@ -85,11 +85,6 @@
       "logo":"hacken.png"
     },
     {
-      "gaTag":"PocketEcology",
-      "link":"https://www.pocketeos.com",
-      "logo":"pocket_ecology.png"
-    },
-    {
       "gaTag":"Newdex",
       "link":"https://newdex.io",
       "logo":"newdex.png"
@@ -108,9 +103,7 @@
       "gaTag":"FireWall.X",
       "link":"https://firewallx.io",
       "logo":"firewall.png"
-    }
-  ],
-  [
+    },
     {
       "gaTag":"PeckShield",
       "link":"https://peckshield.com",
