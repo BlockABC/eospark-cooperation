@@ -103,6 +103,18 @@
       "gaTag":"lianan",
       "link":"https://www.lianantech.com",
       "logo":"lianan.png"
+    },
+    {
+      "gaTag":"FireWall.X",
+      "link":"https://firewallx.io",
+      "logo":"firewall.png"
+    }
+  ],
+  [
+    {
+      "gaTag":"PeckShield",
+      "link":"https://peckshield.com",
+      "logo":"peckshield.png"
     }
   ]
 ]
