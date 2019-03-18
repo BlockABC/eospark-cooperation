@@ -604,13 +604,6 @@
         "description":"The first true profit-sharing online arcade"
       },
       {
-        "gaTag":"EOS_Poker",
-        "link":"https://eospoker.win",
-        "logo":"eos_poker.png",
-        "title":"EOS Poker",
-        "description":""
-      },
-      {
         "gaTag":"token_planet",
         "link":"http://app.tokenplanet.net/?isInApp=1&qd=eospark",
         "logo":"token_planet.png",
