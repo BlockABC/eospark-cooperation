@@ -1,5 +1,18 @@
 [
   {
+    "gaTag":"higold_miner",
+    "categoriy":"tool",
+    "link":"https://hi.gold/miner?ref=supereospark",
+    "logo":"higold_miner_logo.png",
+    "preview":"higold_miner.png",
+    "title":"HiGold Miner",
+    "description":"A Proof of Stake tool for HIG token. Bancor+PoS makes cost-benefit more balanced.",
+    "zh-Hans-CN":{
+      "title":"嗨金矿工",
+      "description":"HIG通证的PoS挖矿工具, 创新使用Bancor+PoS机制来平衡挖矿的成本与收益."
+    }
+  },
+  {
     "gaTag":"dice",
     "categoriy":"game",
     "link":"https://dice.one/?ref=supereospark",
