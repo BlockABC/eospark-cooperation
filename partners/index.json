@@ -440,6 +440,17 @@
     "type":"informationPlatforms",
     "children":[
       {
+        "gaTag":"coin_gecko",
+        "link":"https://www.coingecko.com/en",
+        "logo":"coin_gecko.png",
+        "title":"CoinGecko",
+        "description":"360° Market Overview of Coins & Cryptocurrencies",
+        "zh-Hans-CN":{
+          "description":"360°全方位剖析货币&加密数字货币列表",
+          "link": "https://www.coingecko.com/zh"
+        }
+      },
+      {
         "gaTag":"imeos_one",
         "link":"https://imeos.one",
         "logo":"imeos_one.png",
