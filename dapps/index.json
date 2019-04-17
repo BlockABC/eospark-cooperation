@@ -549,5 +549,14 @@
     "zh-Hans-CN":{
       "description":"为币圈用户提供一个优质的游戏娱乐平台."
     }
+  },
+  {
+    "gaTag":"sportbet",
+    "categoriy":"game",
+    "link":"https://sportbet.one?r=supereospark",
+    "logo":"sportbet_logo.png",
+    "preview":"sportbet.png",
+    "title":"SportBet",
+    "description":"First decentralized sportsbook on EOS blockchain."
   }
 ]
