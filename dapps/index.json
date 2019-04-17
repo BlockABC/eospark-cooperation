@@ -537,5 +537,17 @@
     "zh-Hans-CN": {
       "description": "BetCity.one 是一个采用区块链技术，并基于 EOS 智能合约的去中心化游戏平台."
     }
+  },
+  {
+    "gaTag":"eoscasino",
+    "categoriy":"game",
+    "link":"http://rgcg.kyyy888.com:18700/main/eos/520972/1/index.do",
+    "logo":"eoscasino_logo.png",
+    "preview":"eoscasino.jpg",
+    "title":"EOSCasino",
+    "description":"Provide a quality game entertainment platform for digital currency users.",
+    "zh-Hans-CN":{
+      "description":"为币圈用户提供一个优质的游戏娱乐平台."
+    }
   }
 ]
