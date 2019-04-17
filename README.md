@@ -171,6 +171,7 @@ It can be previewed here after compilation, and only a brief introduction to Eng
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/rainbow_bay_logo.png" /> | Rainbow Bay | Rainbow Bay 充分吸取 DAPP 市场经验，致力创造一个定位于 PVP 的游戏平台. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/rainbow_bay.png" /> | https://www.rabgame.com?ref=supereospark&time=4 | game | rainbow_bay | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/we_dice_logo.png" /> | WeDice | Automatic earning dice for dice owner. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/we_dice.png" /> | https://wedice.one/?ref=supereospark | game | we_dice | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/higold_miner_logo.png" /> | HiGold Miner | A Proof of Stake tool for HIG token. Bancor+PoS makes cost-benefit more balanced. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/higold_miner.png" /> | https://hi.gold/miner?ref=supereospark | tool | higold_miner | 
+| <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/iboxgames_logo.png" /> | iBoxGame | A baccarat HiLo gambling game dapp rewarding high IQ players. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/iboxgames.png" /> | https://ibox.games/?ref=supereospark | game | iboxgames | 
 
 <!-- dapp_list_end -->
 

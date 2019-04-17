@@ -513,5 +513,17 @@
       "title":"嗨金矿工",
       "description":"HIG 通证的 PoS 挖矿工具, 创新使用 Bancor+PoS 机制来平衡挖矿的成本与收益."
     }
+  },
+  {
+    "gaTag": "iboxgames",
+    "categoriy": "game",
+    "link": "https://ibox.games/?ref=supereospark",
+    "logo": "iboxgames_logo.png",
+    "preview": "iboxgames.png",
+    "title": "iBoxGame",
+    "description": "A baccarat HiLo gambling game dapp rewarding high IQ players.",
+    "zh-Hans-CN": {
+      "description": "玩家利用一副牌以内的概率预测花色、大小，玩得越多赚得越多，有冒险精神就能成为大赢家."
+    }
   }
 ]
