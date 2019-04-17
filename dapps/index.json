@@ -525,5 +525,17 @@
     "zh-Hans-CN": {
       "description": "玩家利用一副牌以内的概率预测花色、大小，玩得越多赚得越多，有冒险精神就能成为大赢家."
     }
+  },
+  {
+    "gaTag": "betcity",
+    "categoriy": "game",
+    "link": "https://www.betcity.one",
+    "logo": "betcity_logo.png",
+    "preview": "betcity.png",
+    "title": "BetCity.one",
+    "description": "BetCity.one is a decentralized gaming platform based on blockchain technology and based on EOS smart contracts.",
+    "zh-Hans-CN": {
+      "description": "BetCity.one 是一个采用区块链技术，并基于 EOS 智能合约的去中心化游戏平台."
+    }
   }
 ]
