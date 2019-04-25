@@ -41,17 +41,6 @@
         }
       },
       {
-        "gaTag":"tomato_wallet",
-        "link":"https://tomatowallet.cn/",
-        "logo":"tomato_wallet.png",
-        "title":"Tomato Wallet",
-        "description":"One wallet supports the full currency and one mnemonic controls the entire currency",
-        "zh-Hans-CN":{
-          "title":"番茄钱包",
-          "description":"一个钱包支持全币种，一份助记词控制全币种"
-        }
-      },
-      {
         "gaTag":"hoo",
         "link":"https://hoo.com",
         "logo":"hoo.png",
