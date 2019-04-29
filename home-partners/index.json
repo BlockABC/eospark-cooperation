@@ -1,6 +1,11 @@
 [
   [
     {
+      "gaTag":"Switcheo_Network",
+      "link":"https://switcheo.exchange",
+      "logo":"switcheo_network.png"
+    },
+    {
       "gaTag":"imeos",
       "link":"https://imeos.one",
       "logo":"imeos_one.png"
@@ -108,11 +113,6 @@
       "gaTag":"PeckShield",
       "link":"https://peckshield.com",
       "logo":"peckshield.png"
-    },
-    {
-      "gaTag":"Switcheo_Network",
-      "link":"https://switcheo.exchange",
-      "logo":"switcheo_network.png"
     }
   ]
 ]

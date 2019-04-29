@@ -1,5 +1,17 @@
 [
   {
+    "gaTag":"Switcheo_Network",
+    "categoriy":"exchange",
+    "link":"https://switcheo.exchange",
+    "logo":"switcheo.png",
+    "preview":"switcheo_preview.png",
+    "title":"Switcheo Network",
+    "description":"The simplest way to buy and sell cryptocurrencies securely.",
+    "zh-Hans-CN":{
+      "description":"最简单安全的加密数字货币交易方式."
+    }
+  },
+  {
     "gaTag":"dice",
     "categoriy":"game",
     "link":"https://dice.one/?ref=supereospark",
@@ -558,17 +570,5 @@
     "preview":"sportbet.png",
     "title":"SportBet",
     "description":"First decentralized sportsbook on EOS blockchain."
-  },
-  {
-    "gaTag":"Switcheo_Network",
-    "categoriy":"exchange",
-    "link":"https://switcheo.exchange",
-    "logo":"switcheo.png",
-    "preview":"switcheo_preview.png",
-    "title":"Switcheo Network",
-    "description":"The simplest way to buy and sell cryptocurrencies securely.",
-    "zh-Hans-CN":{
-      "description":"最简单安全的加密数字货币交易方式."
-    }
   }
 ]

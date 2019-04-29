@@ -241,6 +241,16 @@
     "type":"exchange",
     "children":[
       {
+        "gaTag":"Switcheo_Network",
+        "link":"https://switcheo.exchange",
+        "logo":"switcheo.png",
+        "title":"Switcheo Network",
+        "description":"The simplest way to buy and sell cryptocurrencies securely. ",
+        "zh-Hans-CN":{
+          "description":"最简单安全的加密数字货币交易方式"
+        }
+      },
+      {
         "gaTag":"btex",
         "link":"https://www.btex.org",
         "logo":"btex.png",
@@ -421,16 +431,6 @@
         "description":"FCoin，A Real-time, Open and Transparent Community-based Digital Asset Trading Platform",
         "zh-Hans-CN":{
           "description":"FCoin，实时公开透明的社区型交易平台"
-        }
-      },
-      {
-        "gaTag":"Switcheo_Network",
-        "link":"https://switcheo.exchange",
-        "logo":"switcheo.png",
-        "title":"Switcheo Network",
-        "description":"The simplest way to buy and sell cryptocurrencies securely. ",
-        "zh-Hans-CN":{
-          "description":"最简单安全的加密数字货币交易方式"
         }
       }
     ]
