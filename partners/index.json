@@ -241,6 +241,16 @@
     "type":"exchange",
     "children":[
       {
+        "gaTag":"Switcheo_Network",
+        "link":"https://switcheo.exchange",
+        "logo":"switcheo.png",
+        "title":"Switcheo Network",
+        "description":"The simplest way to buy and sell cryptocurrencies securely. ",
+        "zh-Hans-CN":{
+          "description":"最简单安全的加密数字货币交易方式"
+        }
+      },
+      {
         "gaTag":"btex",
         "link":"https://www.btex.org",
         "logo":"btex.png",
