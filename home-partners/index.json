@@ -108,6 +108,11 @@
       "gaTag":"PeckShield",
       "link":"https://peckshield.com",
       "logo":"peckshield.png"
+    },
+    {
+      "gaTag":"Switcheo_Network",
+      "link":"https://switcheo.exchange",
+      "logo":"switcheo_network.svg"
     }
   ]
 ]

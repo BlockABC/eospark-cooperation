@@ -422,6 +422,16 @@
         "zh-Hans-CN":{
           "description":"FCoin，实时公开透明的社区型交易平台"
         }
+      },
+      {
+        "gaTag":"Switcheo_Network",
+        "link":"https://switcheo.exchange",
+        "logo":"switcheo.svg",
+        "title":"Switcheo Network",
+        "description":"The simplest way to buy and sell cryptocurrencies securely. ",
+        "zh-Hans-CN":{
+          "description":"最简单安全的加密数字货币交易方式"
+        }
       }
     ]
   },

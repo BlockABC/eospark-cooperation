@@ -173,6 +173,7 @@ npm run build
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/betcity_logo.png" /> | BetCity.one | BetCity.one is a decentralized gaming platform based on blockchain technology and based on EOS smart contracts. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/betcity.png" /> | https://www.betcity.one | game | betcity | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/eoscasino_logo.png" /> | EOSCasino | Provide a quality game entertainment platform for digital currency users. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/eoscasino.jpg" /> | http://rgcg.kyyy888.com:18700/main/eos/520972/1/index.do | game | eoscasino | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/sportbet_logo.png" /> | SportBet | First decentralized sportsbook on EOS blockchain. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/sportbet.png" /> | https://sportbet.one?r=supereospark | game | sportbet | 
+| <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/switcheo.svg" /> | Switcheo Network | The simplest way to buy and sell cryptocurrencies securely. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/switcheo.jpg" /> | https://switcheo.exchange | exchange | Switcheo_Network | 
 
 <!-- dapp_list_end -->
 
@@ -223,6 +224,7 @@ npm run build
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/onedex.png" /> | OneDex | OneDex - The completely decentralized exchange, support all cryptocurrency, supporting fiat transaction soon | https://onedexweb.haoduobi.com/?source=onedex123451 | exchange | OneDex | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/gate_io.png" /> | Gate.io | Your gateway to cryptocurrency | https://www.gate.io | exchange | gateio | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/fcoin.png" /> | FCoin | FCoin，A Real-time, Open and Transparent Community-based Digital Asset Trading Platform | https://www.fcoin.com | exchange | fcoin | 
+| <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/switcheo.svg" /> | Switcheo Network | The simplest way to buy and sell cryptocurrencies securely.  | https://switcheo.exchange | exchange | Switcheo_Network | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/coin_gecko.png" /> | CoinGecko | 360° Market Overview of Coins & Cryptocurrencies | https://www.coingecko.com/en | informationPlatforms | coin_gecko | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/imeos_one.png" /> | IMEOS.ONE | An ecological portal platform that provides EOS airdrop information | https://imeos.one | informationPlatforms | imeos_one | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/jinse.png" /> | Jinse Finance | The Door to Blockchain | https://www.jinse.com | informationPlatforms | jinse | 
@@ -281,5 +283,6 @@ npm run build
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/home-partners/img/lianan.png" /> | https://www.lianantech.com | lianan | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/home-partners/img/firewall.png" /> | https://firewallx.io | FireWall.X | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/home-partners/img/peckshield.png" /> | https://peckshield.com | PeckShield | 
+| <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/home-partners/img/switcheo_network.svg" /> | https://switcheo.exchange | Switcheo_Network | 
 
 <!-- home_partner_list_end -->
