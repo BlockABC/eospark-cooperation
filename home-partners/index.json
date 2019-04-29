@@ -1,11 +1,6 @@
 [
   [
     {
-      "gaTag":"Switcheo_Network",
-      "link":"https://switcheo.exchange",
-      "logo":"switcheo_network.png"
-    },
-    {
       "gaTag":"imeos",
       "link":"https://imeos.one",
       "logo":"imeos_one.png"
@@ -100,9 +95,9 @@
       "logo":"starteos.png"
     },
     {
-      "gaTag":"lianan",
-      "link":"https://www.lianantech.com",
-      "logo":"lianan.png"
+      "gaTag":"switcheo_network",
+      "link":"https://switcheo.exchange",
+      "logo":"switcheo_network.png"
     },
     {
       "gaTag":"FireWall.X",

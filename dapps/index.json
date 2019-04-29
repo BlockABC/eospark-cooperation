@@ -1,17 +1,5 @@
 [
   {
-    "gaTag":"Switcheo_Network",
-    "categoriy":"exchange",
-    "link":"https://switcheo.exchange",
-    "logo":"switcheo.png",
-    "preview":"switcheo_preview.png",
-    "title":"Switcheo Network",
-    "description":"The simplest way to buy and sell cryptocurrencies securely.",
-    "zh-Hans-CN":{
-      "description":"最简单安全的加密数字货币交易方式."
-    }
-  },
-  {
     "gaTag":"dice",
     "categoriy":"game",
     "link":"https://dice.one/?ref=supereospark",
@@ -30,6 +18,18 @@
     "description":"The World's First Blockchain Platform for Leisure and Competitive Games.",
     "zh-Hans-CN":{
       "description":"全球首个区块链休闲竞技游戏平台."
+    }
+  },
+  {
+    "gaTag":"switcheo_network",
+    "categoriy":"exchange",
+    "link":"https://switcheo.exchange",
+    "logo":"switcheo.png",
+    "preview":"switcheo_preview.png",
+    "title":"Switcheo Network",
+    "description":"The simplest way to buy and sell cryptocurrencies securely.",
+    "zh-Hans-CN":{
+      "description":"最简单安全的加密数字货币交易方式."
     }
   },
   {
