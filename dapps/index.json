@@ -563,8 +563,8 @@
     "gaTag":"Switcheo_Network",
     "categoriy":"exchange",
     "link":"https://switcheo.exchange",
-    "logo":"switcheo.svg",
-    "preview":"switcheo.jpg",
+    "logo":"switcheo.png",
+    "preview":"switcheo_preview.png",
     "title":"Switcheo Network",
     "description":"The simplest way to buy and sell cryptocurrencies securely.",
     "zh-Hans-CN":{
