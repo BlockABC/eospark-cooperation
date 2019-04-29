@@ -310,27 +310,6 @@
         "description":"AEX bitcoin trading exchange to support a variety of digital asset spot transactions"
       },
       {
-        "gaTag":"southex",
-        "link":"https://www.southex.com",
-        "logo":"southex.png",
-        "title":"SouthEX",
-        "description":"An EOS-based Decentralized Exchange",
-        "zh-Hans-CN":{
-          "description":"最佳数字货币交易所"
-        }
-      },
-      {
-        "gaTag":"dragonex",
-        "link":"https://dragonex.im/",
-        "logo":"dragonex.png",
-        "title":"Dragonex",
-        "description":"Best Cryptocurrency Market",
-        "zh-Hans-CN":{
-          "link":"https://dragonex.im/zh-hans/",
-          "description":"最佳数字货币交易所"
-        }
-      },
-      {
         "gaTag":"top_one",
         "link":"https://top.one/",
         "logo":"top_one.png",
