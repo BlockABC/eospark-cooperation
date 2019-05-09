@@ -24,6 +24,16 @@
         }
       },
       {
+        "gaTag":"bepal",
+        "link":"https://www.bepal.pro",
+        "logo":"bepal.png",
+        "title":"BEPAL",
+        "description":"Digital Asset Management Specialist",
+        "zh-Hans-CN":{
+          "description":"数字资产管理服务专家"
+        }
+      },
+      {
         "gaTag":"atomic_wallet",
         "link":"https://atomicwallet.io",
         "logo":"atomic_wallet.png",
@@ -198,16 +208,6 @@
         "zh-Hans-CN":{
           "title":"大龙钱包",
           "description":"安全易用的EOS钱包 | DApp浏览器"
-        }
-      },
-      {
-        "gaTag":"bepal",
-        "link":"https://www.bepal.pro",
-        "logo":"bepal.png",
-        "title":"BEPAL",
-        "description":"Digital Asset Management Specialist",
-        "zh-Hans-CN":{
-          "description":"数字资产管理服务专家"
         }
       },
       {

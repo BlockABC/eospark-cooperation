@@ -183,6 +183,7 @@ npm run build
 | :--------:  | :-----: | :----:      | :----: | :----: | :----:               |
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/CoinU.png" /> | CoinU | Decentralized multi-chain wallet | https://coinu.top/en_US/ | wallet | CoinU | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/bitkeep.png" /> | Bitkeep | The first global decentralized digital wallet service for transaction | https://bitkeep.com | wallet | Bitkeep | 
+| <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/bepal.png" /> | BEPAL | Digital Asset Management Specialist | https://www.bepal.pro | wallet | bepal | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/atomic_wallet.png" /> | Atomic Wallet | Secure multi-asset wallet with built-in exchange | https://atomicwallet.io | wallet | atomic_wallet | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/pocket_ecology.png" /> | PocketEcology | discover your new life in the crypto-world | https://www.pocketeos.com | wallet | pocket_ecology | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/hoo.png" /> | Hoo Wallet | Professional blockchain asset management and service platform | https://hoo.com | wallet | hoo | 
@@ -201,7 +202,6 @@ npm run build
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/walletio.png" /> | Wallet.io | A simple and secure 100% onchain wallet | https://wallet.io | wallet | wallet.io | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/one.png" /> | ONE | You all-in-ONE Dapp, supports all blockchain system and Chinese characters mnemonics | http://app.onechain.one/appstart.html | wallet | ONE | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/dalong_wallet.png" /> | Dalong Wallet | Safe and easy to use eos wallet | DApp explorer | https://dalong.com | wallet | dalong_wallet | 
-| <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/bepal.png" /> | BEPAL | Digital Asset Management Specialist | https://www.bepal.pro | wallet | bepal | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/vip_wallet.png" /> | VipWallet | VIP 账户注册，冷热钱包保护数字资产安全 | http://www.vipwallet.tech | wallet | vip_wallet | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/eostoken.png" /> | eostoken.im | Professional EOS digital property butler | http://eostoken.im/en/index.html | wallet | eostoken | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/coin_us_wallet.png" /> | CoinUs Wallet | CoinUs is a personal multi-wallet offering convenience and security for storing various cryptocurrencies | https://www.coinus.io | wallet | coin_us_wallet | 
