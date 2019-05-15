@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "gaTag":"dice",
     "categoriy":"game",
@@ -570,5 +570,14 @@
     "preview":"sportbet.png",
     "title":"SportBet",
     "description":"First decentralized sportsbook on EOS blockchain."
+  },
+  {
+    "gaTag":"mango",
+    "categoriy":"game",
+    "link":"https://mango.best?r=supereospark",
+    "logo":"mango_logo.png",
+    "preview":"mango.png",
+    "title":"mango",
+    "description":"Most funny decentralized game on EOS blockchain."
   }
 ]
