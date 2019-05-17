@@ -174,6 +174,7 @@ npm run build
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/betcity_logo.png" /> | BetCity.one | BetCity.one is a decentralized gaming platform based on blockchain technology and based on EOS smart contracts. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/betcity.png" /> | https://www.betcity.one | game | betcity | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/eoscasino_logo.png" /> | EOSCasino | Provide a quality game entertainment platform for digital currency users. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/eoscasino.jpg" /> | http://rgcg.kyyy888.com:18700/main/eos/520972/1/index.do | game | eoscasino | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/sportbet_logo.png" /> | SportBet | First decentralized sportsbook on EOS blockchain. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/sportbet.png" /> | https://sportbet.one?r=supereospark | game | sportbet | 
+| <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/mango_logo.png" /> | mango | Most funny decentralized game on EOS blockchain. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/mango.png" /> | https://mango.best?r=supereospark | game | mango | 
 
 <!-- dapp_list_end -->
 
