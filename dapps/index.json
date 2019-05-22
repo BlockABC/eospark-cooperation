@@ -33,6 +33,18 @@
     }
   },
   {
+    "gaTag": "crypto_sword_magic",
+    "categoriy": "game",
+    "link": "https://cryptoswordandmagic.com/?utm_source=eospark",
+    "logo": "csm_logo.png",
+    "preview": "csm.png",
+    "title": "Crypto Sword & Magic",
+    "description": "Crypto Sword & Magic -  First EOS Blockbuster RPG Game",
+    "zh-Hans-CN": {
+      "description": "Crypto Sword & Magic -  EOS上首款重磅游戏."
+    }
+  },
+  {
     "gaTag":"endless_game",
     "categoriy":"game",
     "link":"https://endless.game/dice?invite=supereospark&channel=eospark",
