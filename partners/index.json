@@ -262,17 +262,6 @@
         }
       },
       {
-        "gaTag":"Chaince",
-        "link":"https://chaince.com",
-        "logo":"chaince_for_partner_page.png",
-        "title":"Chaince",
-        "description":"World First EOS Full-Ecological Exchange",
-        "zh-Hans-CN":{
-          "title":"畅思",
-          "description":"全球首家EOS全生态交易所"
-        }
-      },
-      {
         "gaTag":"switcheo_network",
         "link":"https://switcheo.exchange",
         "logo":"switcheo.png",

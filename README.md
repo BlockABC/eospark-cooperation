@@ -211,7 +211,6 @@ It can be previewed here after compilation, and only a brief introduction to Eng
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/coin_us_wallet.png" /> | CoinUs Wallet | CoinUs is a personal multi-wallet offering convenience and security for storing various cryptocurrencies | https://www.coinus.io | wallet | coin_us_wallet | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/btex.png" /> | BTEX | New Generation Decentralization Exchange on EOS | https://www.btex.org | exchange | btex | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/whale_ex.png" /> | WhaleEx | World's best decentralized exchange with highest liquidity | https://www.whaleex.com | exchange | WhaleEx | 
-| <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/chaince_for_partner_page.png" /> | Chaince | World First EOS Full-Ecological Exchange | https://chaince.com | exchange | Chaince | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/switcheo.png" /> | Switcheo Network | The simplest way to buy and sell cryptocurrencies securely.  | https://switcheo.exchange | exchange | switcheo_network | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/newdex.png" /> | Newdex | The first EOS based decentralized exchange in the world | https://newdex.io/ | exchange | newdex | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/zb.png" /> | ZB | Global Compliance Exchange | https://www.zb.cn | exchange | zb | 
@@ -278,7 +277,6 @@ It can be previewed here after compilation, and only a brief introduction to Eng
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/home-partners/img/iostabc.png" /> | https://iostabc.com/ | iostabc | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/home-partners/img/whale_ex.png" /> | https://www.whaleex.com | whale_ex | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/home-partners/img/dapp_review.png" /> | https://dapp.review | dapp_review | 
-| <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/home-partners/img/chaince.png" /> | https://chaince.com | chaince | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/home-partners/img/hacken.png" /> | https://hacken.io | Hacken | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/home-partners/img/newdex.png" /> | https://newdex.io | Newdex | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/home-partners/img/starteos.png" /> | https://www.starteos.io | Starteos | 
