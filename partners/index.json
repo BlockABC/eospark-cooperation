@@ -632,6 +632,19 @@
         "zh-Hans-CN":{
           "description":"下一代链式战斗 SRPG Dapp."
         }
+      },
+      {
+        "gaTag":"sportbet",
+        "link":"https://sportbet.one?r=supereospark",
+        "logo":"sportbet.png",
+        "title":"SportBet",
+        "description":"First decentralized sportsbook on EOS blockchain",
+        "zh-Hans-CN":{
+          "description":"第一个基于EOS区块链的去中心体育竞猜项目"
+        },
+        "ru":{
+          "description":"Децентрализированая букмекерская контора на EOS"
+        }
       }
     ]
   },

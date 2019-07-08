@@ -581,7 +581,13 @@
     "logo":"sportbet_logo.png",
     "preview":"sportbet.png",
     "title":"SportBet",
-    "description":"First decentralized sportsbook on EOS blockchain."
+    "description":"First decentralized sportsbook on EOS blockchain",
+    "zh-Hans-CN":{
+      "description":"第一个基于EOS区块链的去中心体育竞猜项目"
+    },
+    "ru":{
+      "description":"Децентрализированая букмекерская контора на EOS"
+    }
   },
   {
     "gaTag":"mango",
