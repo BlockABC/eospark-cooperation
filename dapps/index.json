@@ -205,18 +205,6 @@
     }
   },
   {
-    "gaTag":"eos_nbet",
-    "categoriy":"game",
-    "link":"http://www.eosbets.me",
-    "logo":"eos_nbet_logo.png",
-    "preview":"eos_nbet.png",
-    "title":"EOS NBet",
-    "description":"Based on EOS platform, combined with a variety of creative play, stimulating rewards and bonuses!",
-    "zh-Hans-CN":{
-      "description":"基于 EOS 平台，结合多种创意玩法，刺激的奖励与分红！"
-    }
-  },
-  {
     "gaTag":"newdex",
     "categoriy":"exchange",
     "link":"https://newdex.io",
@@ -239,19 +227,6 @@
     "zh-Hans-CN":{
       "title":"EOS 德扑",
       "description":"EOS 上第一款正统的德州扑克游戏."
-    }
-  },
-  {
-    "gaTag":"fantasy_forest",
-    "categoriy":"game",
-    "link":"http://www.eosslot.com",
-    "logo":"fantasy_forest_logo.png",
-    "preview":"fantasy_forest.png",
-    "title":"FANTASY FOREST",
-    "description":"First EOS slot game development company. Decentralized algorithm, easily verification, airdropping SLOT for initial stage.",
-    "zh-Hans-CN":{
-      "title":"梦幻森林",
-      "description":"首家 EOS 老虎机游戏平台。去中心算法，自由验证，初期玩游戏空投 SLOT."
     }
   },
   {
@@ -308,32 +283,6 @@
     "zh-Hans-CN":{
       "title":"轮盘",
       "description":"幸运大转盘，大奖等你来."
-    }
-  },
-  {
-    "gaTag":"eos_sangong",
-    "categoriy":"game",
-    "link":"http://eosyx.vip/?link=supereospark",
-    "logo":"eos_sangong_logo.png",
-    "preview":"eos_sangong.png",
-    "title":"EOS Sangong",
-    "description":"Play the fairest games results by EOS block hash.",
-    "zh-Hans-CN":{
-      "title":"EOS 三公",
-      "description":"三公棋牌玩法简单，在游戏茶苑中有很高的人气. EOS 三公以主网哈希值作为游戏的开奖号码，童叟无欺!"
-    }
-  },
-  {
-    "gaTag":"eos_gameboy",
-    "categoriy":"game",
-    "link":"https://eosgameboy.io/?ref=supereospark",
-    "logo":"eos_gameboy_logo.png",
-    "preview":"eos_gameboy.png",
-    "title":"EOS Gameboy",
-    "description":"Simple and easy blockchain game technology.",
-    "zh-Hans-CN":{
-      "title":"EOS 游戏机",
-      "description":"简单易行岩石剪刀纸游戏上区块链技术, 像百家乐一样玩. 在活动期间获取 BOY 令牌."
     }
   },
   {
@@ -413,15 +362,6 @@
     }
   },
   {
-    "gaTag":"game_bet",
-    "categoriy":"game",
-    "link":"http://gamebet.one/#/?referrer=supereospark",
-    "logo":"game_bet_logo.png",
-    "preview":"game_bet.png",
-    "title":"GameBet",
-    "description":"基于泛 EOS 开发的小游戏."
-  },
-  {
     "gaTag":"big_game",
     "categoriy":"game",
     "link":"https://big.game/?code=supereospark",
@@ -455,19 +395,6 @@
     "description":"The first PVP Texas Hold’em on EOS.IO blockchain."
   },
   {
-    "gaTag":"game_sky",
-    "categoriy":"game",
-    "link":"https://www.eosreel.io/?ref=supereospark",
-    "logo":"eosreel_logo.png",
-    "preview":"eosreel.png",
-    "title":"EOSreel",
-    "description":"EOSreel is the highest quality decentralized casino gaming platform based on EOS blockchain. EOSreel can never be manipulated, and all the users are able to view every verification process.",
-    "zh-Hans-CN":{
-      "title":"EOS 插槽",
-      "description":"我们提供最好的分红模式. 在体验 EOSreel 的精彩游戏时,用户可以通过 ER 获取每日分红."
-    }
-  },
-  {
     "gaTag":"eosknights",
     "categoriy":"game",
     "link":"https://eosknights.io",
@@ -489,31 +416,6 @@
     }
   },
   {
-    "gaTag":"eos_war",
-    "categoriy":"game",
-    "link":"https://eoswar.one/?ref=supereospark",
-    "logo":"eos_war_logo.png",
-    "preview":"eos_war.png",
-    "title":"EosWar",
-    "description":"Call up for oneself and lead a team to fight!",
-    "zh-Hans-CN":{
-      "title":"EOS 争霸",
-      "description":"为自己打 call 的保卫战，KO 得越猛赢越多！胜者瓜分战利池，论功行赏占鳌头，成王败寇就只争朝夕!"
-    }
-  },
-  {
-    "gaTag":"rainbow_bay",
-    "categoriy":"game",
-    "link":"https://www.rabgame.com?ref=supereospark&time=4",
-    "logo":"rainbow_bay_logo.png",
-    "preview":"rainbow_bay.png",
-    "title":"Rainbow Bay",
-    "description":"Rainbow Bay 充分吸取 DAPP 市场经验，致力创造一个定位于 PVP 的游戏平台.",
-    "zh-Hans-CN":{
-      "title": "彩虹湾"
-    }
-  },
-  {
     "gaTag":"we_dice",
     "categoriy":"game",
     "link":"https://wedice.one/?ref=supereospark",
@@ -526,19 +428,6 @@
     }
   },
   {
-    "gaTag":"higold_miner",
-    "categoriy":"tool",
-    "link":"https://hi.gold/miner?ref=supereospark",
-    "logo":"higold_miner_logo.png",
-    "preview":"higold_miner.png",
-    "title":"HiGold Miner",
-    "description":"A Proof of Stake tool for HIG token. Bancor+PoS makes cost-benefit more balanced.",
-    "zh-Hans-CN":{
-      "title":"嗨金矿工",
-      "description":"HIG 通证的 PoS 挖矿工具, 创新使用 Bancor+PoS 机制来平衡挖矿的成本与收益."
-    }
-  },
-  {
     "gaTag": "iboxgames",
     "categoriy": "game",
     "link": "https://ibox.games/?ref=supereospark",
@@ -548,30 +437,6 @@
     "description": "A baccarat HiLo gambling game dapp rewarding high IQ players.",
     "zh-Hans-CN": {
       "description": "玩家利用一副牌以内的概率预测花色、大小，玩得越多赚得越多，有冒险精神就能成为大赢家."
-    }
-  },
-  {
-    "gaTag": "betcity",
-    "categoriy": "game",
-    "link": "https://www.betcity.one",
-    "logo": "betcity_logo.png",
-    "preview": "betcity.png",
-    "title": "BetCity.one",
-    "description": "BetCity.one is a decentralized gaming platform based on blockchain technology and based on EOS smart contracts.",
-    "zh-Hans-CN": {
-      "description": "BetCity.one 是一个采用区块链技术，并基于 EOS 智能合约的去中心化游戏平台."
-    }
-  },
-  {
-    "gaTag":"eoscasino",
-    "categoriy":"game",
-    "link":"http://rgcg.kyyy888.com:18700/main/eos/520972/1/index.do",
-    "logo":"eoscasino_logo.png",
-    "preview":"eoscasino.jpg",
-    "title":"EOSCasino",
-    "description":"Provide a quality game entertainment platform for digital currency users.",
-    "zh-Hans-CN":{
-      "description":"为币圈用户提供一个优质的游戏娱乐平台."
     }
   },
   {
@@ -588,14 +453,5 @@
     "ru":{
       "description":"Децентрализированая букмекерская контора на EOS"
     }
-  },
-  {
-    "gaTag":"mango",
-    "categoriy":"game",
-    "link":"https://mango.best?r=supereospark",
-    "logo":"mango_logo.png",
-    "preview":"mango.png",
-    "title":"mango",
-    "description":"Most funny decentralized game on EOS blockchain."
   }
 ]
