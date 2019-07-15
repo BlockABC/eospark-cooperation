@@ -453,5 +453,17 @@
     "ru":{
       "description":"Децентрализированая букмекерская контора на EOS"
     }
+  },
+  {
+    "gaTag":"luckyminer",
+    "categoriy":"game",
+    "link":"https://luckyminer.one/luckyeosminer/multeos/index",
+    "logo":"luckyminer_logo.png",
+    "preview":"luckyminer.png",
+    "title":"luckyminer",
+    "description":"The yield on the diamond is 50 times earnings.",
+    "zh-Hans-CN":{
+      "description":"EOS合约矿工游戏，最高50倍收益！看看哪个矿工挖到钻石了"
+    }
   }
 ]

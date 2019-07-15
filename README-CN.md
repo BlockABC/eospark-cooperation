@@ -164,6 +164,7 @@ npm run build
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/we_dice_logo.png" /> | WeDice | Automatic earning dice for dice owner. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/we_dice.png" /> | https://wedice.one/?ref=supereospark | game | we_dice | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/iboxgames_logo.png" /> | iBoxGame | A baccarat HiLo gambling game dapp rewarding high IQ players. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/iboxgames.png" /> | https://ibox.games/?ref=supereospark | game | iboxgames | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/sportbet_logo.png" /> | SportBet | First decentralized sportsbook on EOS blockchain | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/sportbet.png" /> | https://sportbet.one?r=supereospark | game | sportbet | 
+| <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/luckyminer_logo.png" /> | luckyminer | The yield on the diamond is 50 times earnings. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/luckyminer.png" /> | https://luckyminer.one/luckyeosminer/multeos/index | game | luckyminer | 
 
 <!-- dapp_list_end -->
 
