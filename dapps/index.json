@@ -9,6 +9,18 @@
     "description":"The largest social gaming platform on EOSIO."
   },
   {
+    "gaTag":"luckyminer",
+    "categoriy":"game",
+    "link":"https://luckyminer.one/luckyeosminer/multeos/index",
+    "logo":"luckyminer_logo.png",
+    "preview":"luckyminer.png",
+    "title":"Lucky Miner",
+    "description":"The yield on the diamond is 50 times earnings",
+    "zh-Hans-CN":{
+      "description":"EOS 合约矿工游戏，最高50倍收益！看看哪个矿工挖到钻石了"
+    }
+  },
+  {
     "gaTag":"eos_joy",
     "categoriy":"game",
     "link":"https://www.eosjoy.io/?user=supereospark&utm_source=eospark",
@@ -452,18 +464,6 @@
     },
     "ru":{
       "description":"Децентрализированая букмекерская контора на EOS"
-    }
-  },
-  {
-    "gaTag":"luckyminer",
-    "categoriy":"game",
-    "link":"https://luckyminer.one/luckyeosminer/multeos/index",
-    "logo":"luckyminer_logo.png",
-    "preview":"luckyminer.png",
-    "title":"Lucky Miner",
-    "description":"The yield on the diamond is 50 times earnings",
-    "zh-Hans-CN":{
-      "description":"EOS 合约矿工游戏，最高50倍收益！看看哪个矿工挖到钻石了"
     }
   }
 ]
