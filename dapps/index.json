@@ -11,7 +11,7 @@
   {
     "gaTag":"luckyminer",
     "categoriy":"game",
-    "link":"https://luckyminer.one/luckyeosminer/multeos/index",
+    "link":"https://luckyminer.one/luckyeosminer/multeos/index?ref=eospark.com",
     "logo":"luckyminer_logo.png",
     "preview":"luckyminer.png",
     "title":"Lucky Miner",
@@ -66,19 +66,6 @@
     "description":"The First Cross-Chain Profit-Sharing Gaming Platform.",
     "zh-Hans-CN":{
       "description":"第一个极度透明的利润分享在线游戏厅，玩的越多，赚的越多."
-    }
-  },
-  {
-    "gaTag":"farm_eos",
-    "categoriy":"game",
-    "link":"https://farmeos.io/a/supereospark",
-    "logo":"farm_eos_logo.png",
-    "preview":"farm_eos_en.png",
-    "title":"FarmEOS",
-    "description":"FarmEOS is the world's first DApp gaming eco-platform that combines game mining, Bancor and price dividend weight. PoB（Proof of Bancor) and DoP (Dividend of Price) are also the new mining modes pioneered by FarmEOS team. That is, Permanent dividend and endless game mining.",
-    "zh-Hans-CN":{
-      "preview":"farm_eos_cn.png",
-      "description":"FarmEOS 是全球首款可永久挖矿的 DApp 游戏生态平台。开发团队开创了 PoB（班科证明）挖矿模式以及 DoP（价格股息率）分红模式。持续造血，永久分红，游戏不息，挖矿不止."
     }
   },
   {
