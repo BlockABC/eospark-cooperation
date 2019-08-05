@@ -452,5 +452,36 @@
     "ru":{
       "description":"Децентрализированая букмекерская контора на EOS"
     }
+  },
+  {
+    "gaTag":"prospectors",
+    "categoriy":"game",
+    "link":"https://prospectors.io?ref=supereospark",
+    "logo":"prospectors_logo.png",
+    "preview":"prospectors.png",
+    "title":"Prospectors",
+    "description":"Massive Multiplayer Online Real-Time Economic Strategy Game, MINE GOLD - BUILD YOUR WORLD",
+    "zh-Hans-CN":{
+      "description":"大型多人实时在线经济战略游戏,淘金建立你的世界"
+    }
+  },
+  {
+    "gaTag":"mytoken_best",
+    "categoriy":"entertainment",
+    "link":"https://mytoken.best/?ref=eospark",
+    "logo":"mytoken_best_logo.png",
+    "preview":"mytoken_best.png",
+    "title":"EOS Premium Accounts",
+    "description":"Register .win .ca .en .pro .biz .best ...  and free accounts.",
+    "zh-Hans-CN":{
+      "title":"EOS靓号",
+      "link":"https://mytoken.best/zh/?ref=eospark",
+      "description":"注册 .win .pro .biz .en .ca .best ... 靓号，批量注册免费账号。"
+    },
+    "zh-Hant-HK":{
+      "title":"EOS靚號",
+      "link":"https://mytoken.best/zh/?ref=eospark",
+      "description":"注冊 .win .pro .biz .en .ca .best ... 靚號，批量注冊免費賬戶。"
+    }
   }
 ]
