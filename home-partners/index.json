@@ -1,6 +1,11 @@
 [
   [
     {
+      "gaTag":"abcWallet",
+      "link":"https://abcwallet.com/",
+      "logo":"abc_wallet.png"
+    },
+    {
       "gaTag":"imeos",
       "link":"https://imeos.one",
       "logo":"imeos_one.png"
@@ -51,14 +56,14 @@
       "gaTag":"eos_live",
       "link":"https://eos.live",
       "logo":"eos_live.png"
-    },
+    }
+  ],
+  [
     {
       "gaTag":"gate_io",
       "link":"https://www.gate.io",
       "logo":"gate_io.png"
-    }
-  ],
-  [
+    },
     {
       "gaTag":"iostabc",
       "link":"https://iostabc.com/",

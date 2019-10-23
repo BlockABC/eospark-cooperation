@@ -3,6 +3,16 @@
     "type":"wallet",
     "children":[
       {
+        "gaTag":"ABCWallet",
+        "link":"https://abcwallet.com",
+        "logo":"ABCWallet.png",
+        "title":"ABC Wallet",
+        "description":"A secure decentralized cross-platform wallet for BTC/BCH/ETH/EOS",
+        "zh-Hans-CN":{
+          "description":"安全易用的去中心化多链钱包"
+        }
+      },
+      {
         "gaTag":"CoinU",
         "link":"https://coinu.top/en_US/",
         "logo":"CoinU.png",
