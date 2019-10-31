@@ -483,5 +483,19 @@
       "link":"https://mytoken.best/zh/?ref=supereospark",
       "description":"注冊 .win .pro .biz .en .ca .best ... 靚號，批量注冊免費賬戶。"
     }
+  },
+  {
+    "gaTag":"blocksname",
+    "categoriy":"tool",
+    "link":"http://blocks.name/?inviter=supereospark",
+    "logo":"blocksname_logo.png",
+    "preview":"blocksname.png",
+    "title":"Blocks Name",
+    "description":"出售账户,竞拍账户,注册短账户,请求账户",
+    "zh-Hans-CN":{
+      "title":"EOS账户交易",
+      "link":"http://blocks.name/?inviter=supereospark",
+      "description":"出售账户,竞拍账户,注册短账户,请求账户"
+    }
   }
 ]
