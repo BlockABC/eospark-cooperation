@@ -166,6 +166,7 @@ npm run build
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/sportbet_logo.png" /> | SportBet | First decentralized sportsbook on EOS blockchain | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/sportbet.png" /> | https://sportbet.one?r=supereospark | game | sportbet | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/prospectors_logo.png" /> | Prospectors | Massive Multiplayer Online Real-Time Economic Strategy Game, MINE GOLD - BUILD YOUR WORLD | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/prospectors.png" /> | https://prospectors.io?ref=supereospark | game | prospectors | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/mytoken_best_logo.png" /> | Meiya Token | Register .win .ca .en .pro .biz .best ...  and free accounts. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/mytoken_best.png" /> | https://mytoken.best/?ref=supereospark | entertainment | mytoken_best | 
+| <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/blocksname_logo.png" /> | Blocks Name | 出售账户,竞拍账户,注册短账户,请求账户 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/blocksname.png" /> | http://blocks.name/?inviter=supereospark | tool | blocksname | 
 
 <!-- dapp_list_end -->
 
