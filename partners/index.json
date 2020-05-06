@@ -3,6 +3,16 @@
     "type":"wallet",
     "children":[
       {
+        "gaTag":"ABCWallet",
+        "link":"https://abcwallet.com",
+        "logo":"ABCWallet.png",
+        "title":"ABC Wallet",
+        "description":"A secure decentralized cross-platform wallet for BTC/BCH/ETH/EOS",
+        "zh-Hans-CN":{
+          "description":"安全易用的去中心化多链钱包"
+        }
+      },
+      {
         "gaTag":"CoinU",
         "link":"https://coinu.top/en_US/",
         "logo":"CoinU.png",
@@ -631,6 +641,19 @@
         "description":"The Next Generation On-Chain Battle SRPG Dapp.",
         "zh-Hans-CN":{
           "description":"下一代链式战斗 SRPG Dapp."
+        }
+      },
+      {
+        "gaTag":"sportbet",
+        "link":"https://sportbet.one?r=supereospark",
+        "logo":"sportbet.png",
+        "title":"SportBet",
+        "description":"First decentralized sportsbook on EOS blockchain",
+        "zh-Hans-CN":{
+          "description":"第一个基于EOS区块链的去中心体育竞猜项目"
+        },
+        "ru":{
+          "description":"Децентрализированая букмекерская контора на EOS"
         }
       }
     ]
